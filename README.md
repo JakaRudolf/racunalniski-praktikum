@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- glavni naslov -->
 # Računalniški praktikum
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
@@ -36,3 +37,7 @@ Včasih pride prav značka ```kbd``` za tipke. Značko uporabimo takole:
 2. [Računalniški sistemi, storitve in oprema za študente](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619)
 3. [Zapiski in vaje za Računalniški praktikum](https://racunalniski-praktikum.github.io/) 
 4. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+=======
+# Računalniški praktikum
+CTRL + S: Shrani trenutno datoteko,CTRL + Z: Razveljavi zadnjo spremembo, alt+tab: preklopi med odprtimi okni
+>>>>>>> dcba30a49272d2a2313d36f9682982d385d954e8
