@@ -1,4 +1,7 @@
-\documentclass{article}
+\documentclass[a4paper, 10pt]{article}
+\usepackage[slovene]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
 
 % NALOGA 1
 % Vključite pakete za podporo slovenščini,
@@ -13,16 +16,20 @@
 % dokumenta s temi podatki prikazala, morate uporabiti ukaz `\maketitle`.
 
 \title{Izdelava urnikov}
-Nejc Širovnik
-14. 10. 2019
+\author{Nejc Širovnik}
+\date{14. 10. 2019}
+\maketitle
 
 % začetek povzetka
+\begin{abstract}
 V članku so predstavljeni nekateri postopki za avtomatsko izdelavo urnikov. Opisani so
 potrebni vhodni podatki, naštete so omejitve, ki jih je potrebno upoštevati pri izdelavi
 urnikov, predstavljena je tudi metoda merjenja kakovosti izdelanega urnika.
+\end{abstract}
+   
 % konec povzetka
 
-Program za izdelavo urnika % razdelek
+\section{Program za izdelavo urnika} % razdelek
 
 Spominjam se osnovnošolskih in srednješolskih dni, ko smo vsi z nestrpnostjo pričakovali
 začetek novega šolskega leta, ki pa je nemalokrat prinesel zelo hladen tuš ob pogledu na
@@ -54,7 +61,7 @@ Znano je, da so za izdelavo najzahtevnejši fakultetni urniki, zato od sedaj nap
 obravnavamo le slednje. Seznam omejitev, ki jih moramo upoštevati pri teh urnikih,
 je namreč obsežnejši kot pri urnikih osnovnih in srednjih šol.
 
-Vhodni podatki % podrazdelek
+\subsection{Vhodni podatki} % podrazdelek
 
 Če želimo izdelati urnik, v prvi vrsti potrebujemo podatke, ki jih moramo upoštevati in
 kasneje tudi obdelati. Te podatke preberemo iz podatkovnih baz ali drugih vrst datotek,
