@@ -40,4 +40,5 @@ Včasih pride prav značka ```kbd``` za tipke. Značko uporabimo takole:
 =======
 # Računalniški praktikum
 CTRL + S: Shrani trenutno datoteko,CTRL + Z: Razveljavi zadnjo spremembo, alt+tab: preklopi med odprtimi okni
->>>>>>> dcba30a49272d2a2313d36f9682982d385d954e8
+## Povezava do moje spletne strani
+https://jakarudolf.github.io/
